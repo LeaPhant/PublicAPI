@@ -10,6 +10,7 @@ Returns the list of products along with their sell summary, buy summary and quic
 ```php
 {
   "success": true,
+  "lastUpdated": 1587237498970,
   "products": {
     "INK_SACK:3": {
       "product_id": "INK_SACK:3",
